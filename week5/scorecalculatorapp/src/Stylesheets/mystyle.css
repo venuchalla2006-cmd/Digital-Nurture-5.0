@@ -1,0 +1,38 @@
+.score-container {
+    background-color: #f7f9fc;
+    border: 2px solid #e1e4e8;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 500px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.score-title {
+    color: #2c3e50;
+    font-size: 24px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.student-info {
+    font-size: 16px;
+    color: #34495e;
+    line-height: 1.6;
+}
+
+.student-info span {
+    font-weight: bold;
+    color: #2980b9;
+}
+
+.average-score {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #27ae60;
+    text-align: center;
+    padding: 10px;
+    background-color: #d4edda;
+    border-radius: 4px;
+}
